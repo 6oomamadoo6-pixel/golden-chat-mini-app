@@ -1,0 +1,8 @@
+{
+  "name": "golden-chat-mini-app",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Golden Chat Telegram Mini App",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0" }
+}
